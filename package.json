@@ -1,0 +1,22 @@
+{
+  "name": "unsplash-clone",
+  "version": "1.0.0",
+  "description": "Mini Unsplash Clone App",
+  "main": "index.js",
+  "scripts": {
+    "compile-sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oladetounjed/jed-unsplash.git"
+  },
+  "author": "Oladetoun Temitayo Micheal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oladetounjed/jed-unsplash/issues"
+  },
+  "homepage": "https://github.com/oladetounjed/jed-unsplash#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
